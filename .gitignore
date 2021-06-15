@@ -130,3 +130,6 @@ dmypy.json
 
 # add dataset
 dataset/
+
+# add vscode
+.vscode/

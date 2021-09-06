@@ -1,4 +1,7 @@
 # students-inclassroom-monitoring
+
+![students-inclassroom-monitoring](https://socialify.git.ci/lunarwhite/students-inclassroom-monitoring/image?description=1&descriptionEditable=Monitoring%20of%20the%20number%20of%20students%20in%20classroom%2C%20YOLOv5-based.&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc6%2FPyTorch_logo_black.svg%2F220px-PyTorch_logo_black.svg.png&owner=1&pulls=1&stargazers=1&theme=Light)
+
 Monitoring of the number of students in classroom, YOLOv5-based. || 基于YOLOv5的教室人数监测统计系统，支持输入图片、视频和直播流等多种媒体格式，迁移学习
 
 ```
